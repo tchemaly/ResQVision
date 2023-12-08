@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d9e0845-0add-8843-6e45-4c4e5c25ba33": {
+      "ProjectGuid": "2d9e0845-0add-8843-6e45-4c4e5c25ba33",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "1432bacc-49d0-34d7-26a7-85fa636abc0c": {
+      "ProjectGuid": "1432bacc-49d0-34d7-26a7-85fa636abc0c",
+      "DisplayName": "UMA_Core",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
